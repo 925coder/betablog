@@ -1,5 +1,8 @@
 # A blog about coding, life and everything in between
 title: "925coder - An everyday programmer's blog"
+email: 925coder@gmail.com
+description: "Adventures in programming, life and everything else"
+baseurl: ""
 
 # Build settings
 markdown: rdiscount
