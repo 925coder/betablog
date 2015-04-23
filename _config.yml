@@ -3,7 +3,7 @@ title: "925coder - An everyday programmer's blog"
 email: 925coder@gmail.com
 description: "Adventures in programming, life and everything else"
 baseurl: "/betablog/"
-url:"http://localhost:4000"
+url: "http://localhost:4000"
 
 # Build settings
 markdown: rdiscount
